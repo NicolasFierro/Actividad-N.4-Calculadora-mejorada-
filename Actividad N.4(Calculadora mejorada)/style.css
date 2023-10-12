@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(34, 98, 141, 0.959); /* Cambia 'blue' por el color que desees */
+}
+h1 {
+    color: rosybrown; /* Cambia 'red' al color que desees */
+}
+
+.caja {
+    width: 280px;
+    height: 80px;
+    position: sticky;
+    top: 30px;
+    margin: 0 auto; /* Centra horizontalmente */
+    margin-bottom: 50px; /* Ajusta el valor de margen según tus preferencias */
+}
+
+
+
+
